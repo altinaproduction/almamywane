@@ -1,0 +1,284 @@
+
+a[target=_blank]{color: blue;}
+a[target=_blank]:hover { color: aqua}
+.image {
+    float: right; margin-right: 100px; border-style: solid; border-color: blue; border-width:15px;
+} 
+ul 
+{
+    list-style: none;
+}
+
+h1
+{font-size: 40px; 
+font-family: Georgia, 'Times New Roman', Times, serif; 
+color:  black; 
+background-color:aquamarine; 
+text-align: left; 
+display: inline-block;
+}
+
+header
+{   width: 1340px;
+    height: 90px;
+
+
+
+}
+
+header nav
+{
+    float: right;
+    margin-top: 20px;
+}
+header nav ul li 
+{   
+    float: left;
+}
+header nav ul li a
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 15px;
+    font-size: 15px;
+}
+
+a
+{
+text-decoration: none;
+color: blue;
+}
+div a 
+{
+    color: rgb(4, 0, 255)
+}
+#IMAGE
+{  
+    
+    text-align: right;
+    height: 500px;
+    width: 650px;
+    background-image: url(Almamy1.jpg); margin-left: 300px;border-radius: 40px; border-style: solid; border-width: 4px; border-color: blue;  
+    background-repeat: no-repeat;
+    margin-right: 200px;
+    margin-top: 160px;
+    padding-left: 10px;
+
+}
+
+#IMAGE h2
+{
+
+position: relative; top: 0px;
+
+}
+.button-1
+{
+    color: blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    text-align: center; 
+    margin-left: 250px;
+    margin-right: 80px;
+    margin-bottom: 100px;
+    position: relative; top: 10px;
+
+}  
+.button-1:hover
+{
+    background-color: blue;
+}
+
+.clear
+{
+    clear: both;
+}
+
+#Altina
+{
+    background-image: url(photo1.jpg);
+    height: 500px;
+    width: 1320px;
+    background-repeat: no-repeat; 
+    padding-bottom: 300px;
+
+
+}
+
+#Altina h6
+{
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-bottom: 220px;
+    padding-top: 770px;
+    margin-left: 325px;
+    transform: rotate(30deg);
+     -moz-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    -khtml-transform: rotate(30deg);
+     -ms-transform: rotate(30deg);
+     text-align: justify;
+
+
+
+
+
+
+}
+
+#Altina p
+{
+    color: white;
+    line-height: 20px;
+    font-size: 28px;
+    background-color: rgba(0, 0, 0, 0); height:220px; width:400px;
+    border-radius: 20px;
+    text-align: left;
+    float: right;
+    position: relative; bottom: 900px; right: 260px; 
+    float: right;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-left: 5px;
+    transform: rotate(-20deg);
+    -moz-transform: rotate(-20deg);
+   -webkit-transform: rotate(-20deg);
+   -khtml-transform: rotate(-20deg);
+    -ms-transform: rotate(-20deg);
+    
+
+}
+
+#Réalisations h2
+{
+padding-top: 40px;
+font-size: 30px;
+text-align: center;
+font-style: oblique;
+padding-right: 70px;
+}
+
+#Réalisations p
+{
+padding-right: 100px;
+margin-left: 200px;
+width: 1500px;
+}
+
+.videos
+{
+padding-bottom: 80px;
+padding-top: 50px;
+font-size: 24px;
+font-weight: bold;
+text-align: center;
+font-style: oblique;
+padding-right: 50px;
+
+
+}
+
+a
+{
+text-decoration: none;
+}
+
+
+a[target=_blank]{color: blue;}
+a[target=_blank]:hover { color: aqua}
+
+
+
+
+
+
+
+
+
+
+#Devis
+{ 
+   margin-top: 60px;
+    margin-bottom: 100px;
+    background-color: grey;
+    width: 800px;
+    margin-left: 280px;
+    height: 400px;
+    
+}
+
+#Devis article:first-child
+{ 
+
+    width: 800px;
+    height: 280px;
+}
+
+.Devis1
+{
+    font-size: 20px;
+    padding-top: 30px;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 400px;
+    height: 600px;
+    padding-left: 15px;
+
+}
+
+.Devis1  ul
+{
+    list-style: circle;
+}
+
+#contact
+{   
+    height: 200px;
+    width: 226px;
+    margin-left: 570px;
+    padding-bottom: 80px;
+    padding-top: 102px;
+
+}
+
+#contact h2
+{
+    font-size: 18px;
+    border-bottom: 6px solid blue;
+    margin-right: auto;
+}
+#contact p
+{
+    font-size: 15px;
+}
+
+.Devis2 h4
+{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+    border-bottom: 3px solid aqua
+}
+
+.Devis2 p 
+{
+    text-align: justify;
+}
+
+
+footer
+{
+    padding-top: 200px;
+    
+}
+
+footer p 
+{
+    text-align: center;
+    margin-left: 45px;
+}
+
